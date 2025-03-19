@@ -1,0 +1,5 @@
+SupplierID,SupplierName,ReliabilityScore,AverageDeliveryTime
+201,Supplier A,4.5,5
+202,Supplier B,4.0,6
+203,Supplier C,3.8,7
+204,Supplier D,4.2,6

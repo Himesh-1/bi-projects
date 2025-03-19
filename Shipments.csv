@@ -1,0 +1,7 @@
+ShipmentID,OrderID,Route,TransportMode,DelayDays,ShipmentCost
+501,101,A-B,Truck,1,200
+502,102,B-C,Rail,0,150
+503,103,A-C,Air,3,300
+504,104,C-D,Truck,2,180
+505,105,B-D,Ship,0,250
+506,106,A-D,Rail,1,220

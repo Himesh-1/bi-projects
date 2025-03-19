@@ -1,0 +1,5 @@
+CostID,Type,Region,CostAmount
+1,Transport,North,5000
+2,Warehouse,North,2000
+3,Transport,South,4500
+4,Warehouse,South,2500
